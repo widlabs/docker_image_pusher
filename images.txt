@@ -2,3 +2,4 @@ nginx
 mysql:8.0
 redis
 certbot/certbot
+kylemanna/openvpn
