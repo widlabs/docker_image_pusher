@@ -1,6 +1,1 @@
-nginx
-mysql:8.0
-redis
-certbot/certbot
-kylemanna/openvpn
-gogs/gogs:latest
+elestio/uptime-kuma:latest
