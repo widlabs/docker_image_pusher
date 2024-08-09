@@ -1,1 +1,1 @@
-elestio/uptime-kuma:latest
+willfarrell/autoheal
