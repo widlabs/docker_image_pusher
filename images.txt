@@ -1,2 +1,1 @@
-nginx
-certbot/certbot
+elestio/uptime-kuma
