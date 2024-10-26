@@ -1,1 +1,2 @@
 elestio/uptime-kuma
+wordpress:latest
