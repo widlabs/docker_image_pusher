@@ -1,2 +1,2 @@
-elestio/uptime-kuma
+redis:latest
 wordpress:latest
