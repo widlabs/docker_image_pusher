@@ -1,1 +1,2 @@
-gogs/gogs:latest
+node:22-alpine
+nginx:alpine
