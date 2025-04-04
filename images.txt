@@ -1,1 +1,2 @@
+snowdreamtech/frps
 containrrr/watchtower:latest
