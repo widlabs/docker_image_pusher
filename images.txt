@@ -1,2 +1,2 @@
-snowdreamtech/frps
-containrrr/watchtower:latest
+node:18-alpine
+nginx:alpine
